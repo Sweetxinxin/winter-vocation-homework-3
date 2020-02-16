@@ -1,0 +1,4 @@
+@echo off
+gcc 白话文编程.cpp -o 白话文编程.exe
+if exist 白话文编程.exe echo编译成功！
+pause
